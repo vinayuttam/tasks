@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  mount Tasks::Engine => "/tasks"
+  mount Tasks::Engine => "/"
 end
