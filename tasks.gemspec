@@ -9,10 +9,10 @@ Gem::Specification.new do |spec|
   spec.version     = Tasks::VERSION
   spec.authors     = ["Vinay Uttam Vemparala"]
   spec.email       = ["vinayuttamvemparala@gmail.com"]
-  spec.homepage    = "TODO"
-  spec.summary     = "TODO: Summary of Tasks."
-  spec.description = "TODO: Description of Tasks."
-  spec.license     = "MIT"
+  spec.homepage    = "https://github.com/vinayuttam/tasks"
+  spec.summary     = "A simple mountable Rails application"
+  spec.description = "A simple mountable Rails application"
+  # spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
